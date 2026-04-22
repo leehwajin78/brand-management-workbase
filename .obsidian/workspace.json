@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "0402762c46288513",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d554a324c9f83a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22d6ac5eea4f1927",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4465b17a70663167",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a9743b3c4e08441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7f48789c77ced0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "4798393847090cb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "21c9533ba71ec632",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 540.5
+  },
+  "right": {
+    "id": "62492589d7b985e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6840f584c6d40e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5040a2cb853a7786",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "4a5651a7080abf82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "fca1caf7a1cae143",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "6eb1420057ef3a86",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "cfc739c7f2be509f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "marp-slides:Show Slide Preview": false
+    }
+  },
+  "active": "22d6ac5eea4f1927",
+  "lastOpenFiles": [
+    "raw/assets/브랜드 매니지먼트 사업기획서.md",
+    "raw/assets/브랜드 매니지먼트 사업기획서.html",
+    "raw/assets/브랜드 매니지먼트 사업기획서.pptx",
+    "wiki/sources/2_porters_forces.md",
+    "wiki/sources/1_competitors_analysis.md",
+    "wiki/sources/biz_plan_v02.md",
+    "wiki/sources/01_value_proposition_draft.md",
+    "raw/assets/PRD_v1.md",
+    "raw/assets/SRS_v1.md",
+    "raw/assets/Value Proposition Sheet_2026.md",
+    "raw/assets/경력을 무대로 번역하는 브랜드 매니지먼트_기획 초안.md",
+    "raw/assets/1_competents-analysis.md",
+    "raw/assets/2_porters-foreces.md"
+  ]
+}
